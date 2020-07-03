@@ -1,0 +1,49 @@
+body* {
+  font-family: 'Open Sans';
+}
+nav, footer {
+  background-color: #E83E8C;
+}
+nav img {
+  margin-left: 119px;
+}
+.collapse, navbar-collapse {
+  margin-right: 118px;
+}
+h2 {
+  weight: 700;
+  height: 3.75rem;
+}
+h5 {
+  weight: 700;
+  height: 1.0625rem;
+}
+p {
+  weight: 400;
+}
+.row {
+  margin-left: 180px;
+  margin-right: 180px;
+}
+.card-img-top {
+  width: 248px;
+  hight: 132px;
+}
+.card-body {
+  width: 248px;
+  hight: 118.16px;
+}
+.list-group-item {
+  width: 248px;
+  hight: 38.66px;
+}
+.icons-section {
+  color: #ffffff;
+  text-align: right;
+}
+footer img {
+  margin-left: 627.1px;
+  margin-right: 599.98px;
+  margin-top: 30px;
+  margin-bottom: 53.55px;
+}
